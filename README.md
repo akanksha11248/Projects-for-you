@@ -4,15 +4,15 @@ Here’s the complete `README.md` file for your project:
 
 DataVista - Portfolio Insights
 
-#Overview
+Overview
 DataVista is a data-driven portfolio analysis project built using Python and MySQL. It processes large datasets to extract meaningful insights, leveraging data visualization and efficient querying techniques. This project demonstrates structured data handling and analytical methods for informed decision-making.  
 
 Features
 ETL Process: Extract, Transform, Load operations for large datasets  
-Database Integration:** MySQL for structured data storage  
-Data Analysis:** Perform descriptive and statistical analysis  
-Visualization:** Generate insightful graphs and charts using Matplotlib/Seaborn  
-Real-Time Insights:** Query and retrieve key data trends efficiently  
+Database Integration MySQL for structured data storage  
+Data Analysis: Perform descriptive and statistical analysis  
+Visualization: Generate insightful graphs and charts using Matplotlib/Seaborn  
+Real-Time Insights: Query and retrieve key data trends efficiently  
 
 Tech Stack
 - Programming Language:Pyhton  
