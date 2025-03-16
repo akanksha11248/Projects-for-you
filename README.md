@@ -46,7 +46,7 @@ Installation & Setup
    - Update config.py with your database credentials  
    - Import datasets into the database  
 
-4. Run the project**  
+4. Run the project 
    bash
    python insights.py
      
@@ -64,5 +64,4 @@ API Support to fetch and analyze external datasets
 Contributing 
 Contributions are welcome! Feel free to fork the repo, create a new branch, and submit a pull request.  
 
-License
-This project is licensed under the MIT License.  
+ 
